@@ -176,5 +176,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@maazkhan-tech](https://github.com/your-username)
-- LinkedIn: [Click](https://linkedin.com/in/your-linkedin)
+- GitHub: [@maazkhan-tech](https://github.com/maazkhan-tech)
+- LinkedIn: [Click](https://linkedin.com/in/maaz-khan-5385bb386)
