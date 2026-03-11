@@ -1,0 +1,22 @@
+{
+  "name": "finance-tracker-cli",
+  "version": "1.0.0",
+  "description": "A command-line personal finance tracker built with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "finance",
+    "tracker",
+    "nodejs",
+    "budget",
+    "expense-tracker"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
