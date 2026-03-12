@@ -1,10 +1,10 @@
-# 💰 Finance Tracker CLI
+# Finance Tracker CLI
 
 A command-line personal finance tracker built with Node.js. Add income and expenses, view your balance, generate monthly reports, and filter transactions — all from your terminal with persistent local storage.
 
 ---
 
-## 📸 Demo
+## Demo
 
 ```
 1. Add Transaction
@@ -27,19 +27,19 @@ Category (e.g Salary, Food): Salary
 
 ---
 
-## ✨ Features
+## Features
 
-- ➕ Add **Income** and **Expense** transactions
-- 💵 View **total balance** (income - expenses)
-- 📅 **Monthly report** — filtered to current month
-- 🔍 Filter transactions by **type** (Income / Expense)
-- 🏷️ Filter transactions by **category** (e.g. Food, Salary)
-- 💾 **Persistent storage** — data saved locally in `transactions.json`
-- ✅ Input validation for amounts and categories
+-  Add **Income** and **Expense** transactions
+-  View **total balance** (income - expenses)
+-  **Monthly report** — filtered to current month
+-  Filter transactions by **type** (Income / Expense)
+-  Filter transactions by **category** (e.g. Food, Salary)
+-  **Persistent storage** — data saved locally in `transactions.json`
+-  Input validation for amounts and categories
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Usage |
 |---|---|
@@ -50,7 +50,7 @@ Category (e.g Salary, Food): Salary
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 finance-tracker-cli/
@@ -65,7 +65,7 @@ finance-tracker-cli/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -92,7 +92,7 @@ finance-tracker-cli/
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```json
 {
@@ -109,7 +109,7 @@ npm install prompt-sync
 
 ---
 
-## 📖 Usage Guide
+## Usage Guide
 
 | Option | Action |
 |---|---|
@@ -132,7 +132,7 @@ Total Balance: 4800
 
 ---
 
-## 🗃️ Data Storage
+## Data Storage
 
 Transactions are saved automatically in `transactions.json` in the root directory.
 This file is **git-ignored** and created locally on first run.
@@ -150,7 +150,7 @@ This file is **git-ignored** and created locally on first run.
 
 ---
 
-## 📖 What I Learned
+## What I Learned
 
 - Building interactive CLI apps with Node.js
 - File system operations with the `fs` module
@@ -160,20 +160,20 @@ This file is **git-ignored** and created locally on first run.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to open an [issue](https://github.com/maazkhan-tech/finance-tracker-cli/issues) or submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Your Name**
 - GitHub: [@maazkhan-tech](https://github.com/maazkhan-tech)
